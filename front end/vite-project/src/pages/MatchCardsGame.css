@@ -1,0 +1,9 @@
+.deckColumn{
+    display: flex;
+    flex-direction: column;
+}
+.deckRow{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
